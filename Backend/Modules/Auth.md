@@ -1,0 +1,3 @@
+- auth/signup.start
+- auth/signup.createUser
+- auth/signup.confirmEmail
