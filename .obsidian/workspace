@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Фичи/Быстрая покупка.md",
+            "file": "Описание.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фичи/Быстрая покупка.md",
+                "file": "Описание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4d2d617fa0f55aec",
   "lastOpenFiles": [
-    "Фичи/Быстрая покупка.md",
-    "Backend/Сессии.md",
-    "Backend/Пайплайны.md",
-    "Frontend/Страницы/Мессенджер.md",
-    "Frontend/Страницы/Главная.md",
-    "Флоу/Выставить на продажу.md",
-    "Флоу/Создание аукциона.md",
-    "Флоу/Регистрация пользователя.md",
-    "Фичи/Стикеры.md",
-    "Фичи/Список уведомлений.md"
+    "Описание.md",
+    "Глоссарий.md",
+    "Backend/Антиспам.md",
+    "Backend/База данных.md",
+    "Backend/Безопасность.md",
+    "Backend/Node.js.md",
+    "Backend/VPS.md",
+    "Backend/Nginx.md",
+    "Backend/Flow регистрации.md",
+    "Backend/API.md"
   ]
 }
