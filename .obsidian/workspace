@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Описание.md",
+            "file": "Фичи/Ограничение реакций под постами.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Описание.md",
+                "file": "Фичи/Ограничение реакций под постами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "4d2d617fa0f55aec",
   "lastOpenFiles": [
+    "Фичи/Ограничение реакций под постами.md",
     "Описание.md",
     "Глоссарий.md",
     "Backend/Антиспам.md",
@@ -96,7 +97,6 @@
     "Backend/Node.js.md",
     "Backend/VPS.md",
     "Backend/Nginx.md",
-    "Backend/Flow регистрации.md",
-    "Backend/API.md"
+    "Backend/Flow регистрации.md"
   ]
 }
